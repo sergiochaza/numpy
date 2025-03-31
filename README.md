@@ -1,0 +1,2 @@
+# numpy
+practicas numpy
